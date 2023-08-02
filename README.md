@@ -35,13 +35,13 @@ However, overcoming these challenges has been instrumental in honing my skills a
 <h2 align="center">🛠 Let's Connet</h2>
 <a href="https://twitter.com/SaimInSpace" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670211.png" height="40" /></a>
 ㅤㅤㅤ
-<a href="https://www.linkedin.com/in/saimabbas" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="rana usama" height="40" /></a>
+<a href="https://www.linkedin.com/in/saimabbas" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="upwork" height="40" /></a>
 ㅤㅤㅤ
-<a href="https://www.webexhaust.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" alt="rana usama" height="40" /></a>
+<a href="https://www.webexhaust.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" alt="upwork" height="40" /></a>
 ㅤㅤㅤ
-<a href="https://www.fiverr.com/webexhaust" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=ngc6JsBomclm&format=png" alt="rana usama" height="40" /></a>
+<a href="https://www.fiverr.com/webexhaust" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/247/318/png-clipart-fiverr-new-logo-tech-companies-thumbnail.png" alt="fiverr" height="40" /></a>
 ㅤㅤㅤ
-<a href="https://www.upwork.com/freelancers/~0121ee63d18e06bd50" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=HKdmFbFm7xQV&format=png" alt="rana usama" height="40" /></a>
+<a href="https://www.upwork.com/freelancers/~0121ee63d18e06bd50" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/798/102/png-clipart-upwork-freelancer-com-fiverr-peopleperhour-others-text-logo-thumbnail.png" alt="upwork" height="40" /></a>
 
 
 
