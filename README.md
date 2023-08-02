@@ -41,8 +41,14 @@ However, overcoming these challenges has been instrumental in honing my skills a
 ㅤㅤㅤ
 <a href="https://www.fiverr.com/webexhaust" target="blank"><img align="center" src="fiverr.svg" alt="fiverr" height="40" /></a>
 ㅤㅤㅤ
-<a href="https://www.upwork.com/freelancers/~0121ee63d18e06bd50" target="blank"><img align="center" src="upwork.svg" alt="upwork" height="40" /></a>
+<a href="https://www.upwork.com/freelancers/~0121ee63d18e06bd50" target="blank"><img align="center" src="upwork.svg" alt="upwork" height="45" /></a>
 
+<br />
+<h2 align="center">🛠 Hire Me</h2>
+ㅤㅤㅤ
+<a href="https://www.fiverr.com/webexhaust" target="blank"><img align="center" src="fiverr.svg" alt="fiverr" height="30" /></a>
+ㅤㅤㅤ
+<a href="https://www.upwork.com/freelancers/~0121ee63d18e06bd50" target="blank"><img align="center" src="upwork.svg" alt="upwork" height="30" /></a>
 
 
 
