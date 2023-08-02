@@ -47,6 +47,11 @@ However, overcoming these challenges has been instrumental in honing my skills a
 ㅤㅤㅤ
 <a href="https://www.upwork.com/freelancers/~0121ee63d18e06bd50" target="blank"><img align="center" src="upwork.svg" alt="upwork" height="30" /></a>
 
+<br />
+Drop me a message and we can book A Free 15-Mint Call ☎️ via Google Meet.
+
+Kind Regards,
+Saim Abbas
 
 
 
