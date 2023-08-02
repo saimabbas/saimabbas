@@ -33,16 +33,11 @@ However, overcoming these challenges has been instrumental in honing my skills a
 
 <br />
 <h2 align="center">🛠 Let's Connet</h2>
-<a href="https://twitter.com/SaimInSpace" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670211.png" height="40" /></a>
+<a href="https://twitter.com/SaimInSpace" target="blank"><img align="center" alt="twitter" src="https://cdn-icons-png.flaticon.com/512/3670/3670211.png" height="40" /></a>
 ㅤㅤㅤ
-<a href="https://www.linkedin.com/in/saimabbas" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="upwork" height="40" /></a>
+<a href="https://www.linkedin.com/in/saimabbas" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" height="40" /></a>
 ㅤㅤㅤ
-<a href="https://www.webexhaust.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" alt="upwork" height="40" /></a>
-ㅤㅤㅤ
-<a href="https://www.fiverr.com/webexhaust" target="blank"><img align="center" src="fiverr.svg" alt="fiverr" height="40" /></a>
-ㅤㅤㅤ
-<a href="https://www.upwork.com/freelancers/~0121ee63d18e06bd50" target="blank"><img align="center" src="upwork.svg" alt="upwork" height="45" /></a>
-
+<a href="https://www.webexhaust.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" alt="webexhaust" height="45" /></a>
 <br />
 <h2 align="center">🛠 Hire Me</h2>
 ㅤㅤㅤ
