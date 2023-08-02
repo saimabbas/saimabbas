@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Intro Gif" width="350" />
 </p>
 <h1 align="center">Hi there, I am Saim Abbas 👋</h1>
-<h3> My Tech Stack: </h3>  
+<h3>🛠 Tech-Stack </h3>  
 🔷 HTML / HTML5 <br />
 🔷 CSS / CSS3 <br />
 🔷 JAVASCRIPT / JQUERY / TYPESCRIPT <br />
