@@ -49,7 +49,7 @@ However, overcoming these challenges has been instrumental in honing my skills a
 
 <br />
 
-<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saimabbas&theme=transparent&hide_border=true)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saimabbas&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 <br />
 Drop me a message and we can book A Free 15-Mint Call ☎️ via Google Meet.
 
