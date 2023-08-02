@@ -7,7 +7,14 @@
 </h4>
 <br />
 
-I am a Freelance **React Frontend Developer** based in Multan, Pakistan. I am also employed as a **Senior Frontend Engineer in 5D Solutions, Dubai LLC** where I manage frontend team, hanlde complex frontend views, and integrate APIs. Looking 5 years back when I starting my web development journey, I see myself hadling projects of start-ups and big enterprises, tackling comples bugs in frontend and API Integration and going through tons of challenges in web development and freelancing. However, going through all those challenges helped me becoming a developer who can handle any frontend endeavor coming my way.
+Greetings! I am Saim Abbas 🙋‍♂️, a passionate and dedicated Frontend Developer specializing in React, based in the cultural heart of Pakistan - Multan 🇵🇰. In addition to my freelance endeavors, I'm proud to serve as a Senior Frontend Engineer at 5D Solutions, Dubai LLC 💼.
+
+In my role at 5D Solutions, I have the privilege of leading a talented front-end team 👥, managing intricate front-end views, and integrating APIs to ensure smooth, seamless experiences 💻. The balance between my freelance commitments and corporate role enriches my perspective and amplifies my problem-solving skills 💡.
+
+Reflecting on my journey of the last five years in web development, I've navigated the terrain of various projects for both start-ups 🚀 and large-scale enterprises 🏢. I've grappled with complex front-end bugs 🐞, mastered API integrations 🧩, and faced countless challenges in both web development and freelancing landscapes 🌐.
+
+However, overcoming these challenges has been instrumental in honing my skills and enhancing my resilience 💪. Today, I am a seasoned developer, equipped with the knowledge, expertise, and determination to tackle any front-end challenges that come my way. I look forward to the opportunities and challenges that await in the ever-evolving world of web development 🌱.
+
 <br />
 <h2 align="center">🛠 Tech-Stack </h3>  
 🔷 HTML / HTML5 <br />
