@@ -25,7 +25,7 @@ However, overcoming these challenges has been instrumental in honing my skills a
 🔷 CSS LIBRARIES [Bootstrap / MUI / Tailwind Css] <br />
 🔷 REACT CSS LIBRARIES [Ant Design / Styled Components] <br />
 🔷 WEB ANIMATIONS [Gsap / Three.js / Css3 Animations] <br />
-🔷 Axios, Webpack
+🔷 Axios, Webpack <br />
 🔷 VERSION CONTROL SYSTEMS [GitHub / GitLab / BitBucket] <br />
 🔷 UI/UX DESIGN [Adobe XD / Figma] <br />
 🔷 CMS SYSTEMS [WordPress / Shopify / Wix / Squarespace] <br />
