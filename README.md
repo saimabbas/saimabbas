@@ -33,8 +33,8 @@ However, overcoming these challenges has been instrumental in honing my skills a
 
 <br />
 <h2 align="center">🛠 Let's Connet</h2>
-<a href="https://twitter.com/SaimInSpace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oe_rane" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saimabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana usama" height="30" width="40" /></a>
+<a href="https://twitter.com/SaimInSpace" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670211.png" height="30" /></a>
+<a href="https://www.linkedin.com/in/saimabbas" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="rana usama" height="30" /></a>
 
 
 
