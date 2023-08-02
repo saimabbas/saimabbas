@@ -1,7 +1,7 @@
-<p align="center" float="left">
+<p align="right">
   <img src="erozgar-img.jpg" alt="Intro Gif" width="500" />
 </p>
-<h1 align="center" float="right">Greetings, everyone! <br /> This is Saim Abbas here 👋</h1>
+<h1 align="left">Greetings, everyone! <br /> This is Saim Abbas here 👋</h1>
 <h3>🛠 Tech-Stack </h3>  
 🔷 HTML / HTML5 <br />
 🔷 CSS / CSS3 <br />
