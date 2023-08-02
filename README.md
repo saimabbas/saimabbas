@@ -37,7 +37,11 @@ However, overcoming these challenges has been instrumental in honing my skills a
 ㅤㅤㅤ
 <a href="https://www.linkedin.com/in/saimabbas" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="rana usama" height="40" /></a>
 ㅤㅤㅤ
-<a href="https://www.webexhaust.com" target="blank"><img align="center" src="Raw-Logo-White.png" alt="rana usama" height="40" /></a>
+<a href="https://www.webexhaust.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" alt="rana usama" height="40" /></a>
+ㅤㅤㅤ
+<a href="https://www.fiverr.com/webexhaust" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=ngc6JsBomclm&format=png" alt="rana usama" height="40" /></a>
+ㅤㅤㅤ
+<a href="https://www.upwork.com/freelancers/~0121ee63d18e06bd50" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=HKdmFbFm7xQV&format=png" alt="rana usama" height="40" /></a>
 
 
 
