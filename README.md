@@ -39,8 +39,7 @@ However, overcoming these challenges has been instrumental in honing my skills a
 ㅤㅤㅤ
 <a href="https://www.webexhaust.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" alt="webexhaust" height="45" /></a>
 ㅤㅤㅤ
-
-<a href="mailto:webexhaust@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="45" /></a>
+<a href="mailto:webexhaust@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="gmail" height="45" /></a>
 <br />
 <h2 align="center">🛠 Hire Me</h2>
 
