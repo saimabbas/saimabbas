@@ -2,7 +2,7 @@
   <img src="erozgar-img.jpg" alt="Intro Gif" width="500" />
 </p>
 <h1 align="center">Greetings, everyone! <br /> This is Saim Abbas here 👋</h1>
-<h4>
+<h4 align="center">
 🔥𝗧𝗼𝗽-𝗥𝗮𝘁𝗲𝗱 𝗦𝗲𝗹𝗹𝗲𝗿 𝗼𝗻 𝗙𝗶𝘃𝗲𝗿𝗿🔥vetted as "𝗙𝗜𝗩𝗘𝗥𝗥'𝗦 𝗖𝗛𝗢𝗜𝗖𝗘" on my Gigs
 </h4>
 <br />
