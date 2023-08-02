@@ -9,7 +9,7 @@
 
 I am a Freelance **React Frontend Developer** based in Multan, Pakistan. I am also employed as a **Senior Frontend Engineer in 5D Solutions, Dubai LLC** where I manage frontend team, hanlde complex frontend views, and integrate APIs. Looking 5 years back when I starting my web development journey, I see myself hadling projects of start-ups and big enterprises, tackling comples bugs in frontend and API Integration and going through tons of challenges in web development and freelancing. However, going through all those challenges helped me becoming a developer who can handle any frontend endeavor coming my way.
 
-<h3>🛠 Tech-Stack </h3>  
+<h2>🛠 Tech-Stack </h3>  
 🔷 HTML / HTML5 <br />
 🔷 CSS / CSS3 <br />
 🔷 JAVASCRIPT / JQUERY / TYPESCRIPT <br />
