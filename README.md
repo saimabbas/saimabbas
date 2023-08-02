@@ -48,6 +48,8 @@ However, overcoming these challenges has been instrumental in honing my skills a
 <a href="https://www.upwork.com/freelancers/~0121ee63d18e06bd50" target="blank"><img align="center" src="upwork.svg" alt="upwork" height="30" /></a>
 
 <br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saimabbas&theme=dark&hide_border=true)](https://git.io/streak-stats)
 Drop me a message and we can book A Free 15-Mint Call ☎️ via Google Meet.
 
 
