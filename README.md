@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Intro Gif" width="350" />
+</p>
+
+<h1 align="center">Hi there 👋, SAIM here :)</h1>
 
 🔥𝗧𝗼𝗽-𝗥𝗮𝘁𝗲𝗱 𝗦𝗲𝗹𝗹𝗲𝗿 𝗼𝗻 𝗙𝗶𝘃𝗲𝗿𝗿🔥vetted as "𝗙𝗜𝗩𝗘𝗥𝗥'𝗦 𝗖𝗛𝗢𝗜𝗖𝗘" on my Gigs
 
