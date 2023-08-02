@@ -52,8 +52,6 @@ However, overcoming these challenges has been instrumental in honing my skills a
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=saimabbas&theme=transparent&hide_border=true&type=svg" alt="Github stats" />  
 </p>
-<br />
-Drop me a message and we can book A Free 15-Mint Call ☎️ via Google Meet.
 
 
 
