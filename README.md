@@ -16,7 +16,7 @@ Reflecting on my journey of the last five years in web development, I've navigat
 However, overcoming these challenges has been instrumental in honing my skills and enhancing my resilience 💪. Today, I am a seasoned developer, equipped with the knowledge, expertise, and determination to tackle any front-end challenges that come my way. I look forward to the opportunities and challenges that await in the ever-evolving world of web development 🌱.
 
 <br />
-<h2 align="center">🛠 Tools and Technologies I Use</h3>  
+<h2 align="center">🛠 Tools and Technologies I Use</h2>  
 🔷 HTML / HTML5 <br />
 🔷 CSS / CSS3 <br />
 🔷 JAVASCRIPT / JQUERY / TYPESCRIPT <br />
@@ -30,6 +30,11 @@ However, overcoming these challenges has been instrumental in honing my skills a
 🔷 UI/UX DESIGN [Adobe XD / Figma] <br />
 🔷 CMS SYSTEMS [WordPress / Shopify / Wix / Squarespace] <br />
 🔷 COLLABORATION TOOLS [Slack / Trello / Monday / Asana / Jira] <br />
+
+<br />
+<h2 align="center">🛠 Let's Connet</h2>
+<a href="https://twitter.com/SaimInSpace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oe_rane" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saimabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana usama" height="30" width="40" /></a>
 
 
 
