@@ -41,7 +41,7 @@ However, overcoming these challenges has been instrumental in honing my skills a
 ㅤㅤㅤ
 <a href="mailto:webexhaust@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="gmail" height="45" /></a>
 <br />
-<h1 align="left"><img src="https://img.icons8.com/?size=512&id=68762&format=png" height="100px" /> Hire Me</h1>
+<h2 align="center">💼 Hire Me</h2>
 
 <a href="https://www.fiverr.com/webexhaust" target="blank"><img align="center" src="fiverr.svg" alt="fiverr" height="27" /></a>
 ㅤㅤㅤ
