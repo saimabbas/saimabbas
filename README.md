@@ -36,7 +36,7 @@ However, overcoming these challenges has been instrumental in honing my skills a
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="30"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Next.js" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" alt="Next.js" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="Less" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="30"/></a>
