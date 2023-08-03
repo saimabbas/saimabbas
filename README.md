@@ -6,7 +6,6 @@
 🔥𝗧𝗼𝗽-𝗥𝗮𝘁𝗲𝗱 𝗦𝗲𝗹𝗹𝗲𝗿 𝗼𝗻 𝗙𝗶𝘃𝗲𝗿𝗿🔥vetted as "𝗙𝗜𝗩𝗘𝗥𝗥'𝗦 𝗖𝗛𝗢𝗜𝗖𝗘" on my Gigs
 </h4>
 <br />
-
 Greetings! I am Saim Abbas 🙋‍♂️, a passionate and dedicated Frontend Developer specializing in React, based in the cultural heart of Pakistan - Multan. In addition to my freelance endeavors, I'm proud to serve as a **Senior Frontend Engineer at 5D Solutions, Dubai LLC.**
 
 In my role at 5D Solutions, I have the privilege of leading a talented front-end team 👥, managing intricate front-end views, and integrating APIs to ensure smooth, seamless experiences 💻. The balance between my freelance commitments and corporate role enriches my perspective and amplifies my problem-solving skills 💡.
@@ -14,7 +13,6 @@ In my role at 5D Solutions, I have the privilege of leading a talented front-end
 Reflecting on my journey of the last five years in web development, I've navigated the terrain of various projects for both start-ups 🚀 and large-scale enterprises 🏢. I've grappled with complex front-end bugs 🐞, mastered API integrations 🧩, and faced countless challenges in both web development and freelancing landscapes 🌐.
 
 However, overcoming these challenges has been instrumental in honing my skills and enhancing my resilience 💪. Today, I am a seasoned developer, equipped with the knowledge, expertise, and determination to tackle any front-end challenges that come my way. I look forward to the opportunities and challenges that await in the ever-evolving world of web development 🌱.
-
 <br />
 <h2 align="center">🛠 Tools and Technologies I Use</h2>  
 🔷 HTML / HTML5 <br />
@@ -30,7 +28,6 @@ However, overcoming these challenges has been instrumental in honing my skills a
 🔷 UI/UX DESIGN [Adobe XD / Figma] <br />
 🔷 CMS SYSTEMS [WordPress / Shopify / Wix / Squarespace] <br />
 🔷 COLLABORATION TOOLS [Slack / Trello / Monday / Asana / Jira] <br />
-
 <br />
 <h2 align="center">💌 Let's Connet 💌</h2>
 <a href="https://twitter.com/SaimInSpace" target="blank"><img align="center" alt="twitter" src="https://cdn-icons-png.flaticon.com/512/3670/3670211.png" height="40" /></a>
@@ -42,13 +39,10 @@ However, overcoming these challenges has been instrumental in honing my skills a
 <a href="mailto:webexhaust@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="gmail" height="45" /></a>
 <br />
 <h2 align="center">💼 Hire Me 💼</h2>
-
 <a href="https://www.fiverr.com/webexhaust" target="blank"><img align="center" src="fiverr.svg" alt="fiverr" height="27" /></a>
 ㅤㅤㅤ
 <a href="https://www.upwork.com/freelancers/~0121ee63d18e06bd50" target="blank"><img align="center" src="upwork.svg" alt="upwork" height="30" /></a>
-
 <br />
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=saimabbas&theme=transparent&hide_border=true&type=svg" alt="Github stats" />  
 </p>
