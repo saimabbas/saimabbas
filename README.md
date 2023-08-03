@@ -32,7 +32,7 @@ However, overcoming these challenges has been instrumental in honing my skills a
 🔷 COLLABORATION TOOLS [Slack / Trello / Monday / Asana / Jira] <br />
 
 <br />
-<h2 align="center">🛠 Let's Connet</h2>
+<h2 align="center">💌 Let's Connet 💌</h2>
 <a href="https://twitter.com/SaimInSpace" target="blank"><img align="center" alt="twitter" src="https://cdn-icons-png.flaticon.com/512/3670/3670211.png" height="40" /></a>
 ㅤㅤㅤ
 <a href="https://www.linkedin.com/in/saimabbas" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" height="40" /></a>
@@ -41,7 +41,7 @@ However, overcoming these challenges has been instrumental in honing my skills a
 ㅤㅤㅤ
 <a href="mailto:webexhaust@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="gmail" height="45" /></a>
 <br />
-<h2 align="center">💼 Hire Me</h2>
+<h2 align="center">💼 Hire Me 💼</h2>
 
 <a href="https://www.fiverr.com/webexhaust" target="blank"><img align="center" src="fiverr.svg" alt="fiverr" height="27" /></a>
 ㅤㅤㅤ
