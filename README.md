@@ -30,17 +30,35 @@ However, overcoming these challenges has been instrumental in honing my skills a
 🔷 COLLABORATION TOOLS [Slack / Trello / Monday / Asana / Jira]
 <br /><br />
 <p align="center">
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="Less" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/material-ui/material-ui-icon.svg" alt="Material-UI" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Css" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://styled-components.com/logo.png" alt="Styled Components" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="BitBucket" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="Adobe XD" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://cdn.worldvectorlogo.com/logos/shopify-2.svg" alt="Shopify" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="Wix" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/squarespace/squarespace-icon.svg" alt="Squarespace" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="Monday" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" alt="Asana" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="30"/></a>
 </p>
 
 
