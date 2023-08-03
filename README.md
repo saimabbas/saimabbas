@@ -31,11 +31,11 @@ However, overcoming these challenges has been instrumental in honing my skills a
 <br /><br />
 <p align="left">
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="30"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="30"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="30"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" height="30"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="30"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="30"/></a>
+  ㅤㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="30"/></a>
+  ㅤㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="30"/></a>
+  ㅤㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" height="30"/></a>
+  ㅤㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="30"/></a>
+  ㅤㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="Next.js" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" alt="GSAP" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" alt="Three.js" height="30"/></a>
