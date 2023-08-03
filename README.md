@@ -29,7 +29,7 @@ However, overcoming these challenges has been instrumental in honing my skills a
 🔷 CMS SYSTEMS [WordPress / Shopify / Wix / Squarespace] <br />
 🔷 COLLABORATION TOOLS [Slack / Trello / Monday / Asana / Jira]
 <br /><br />
-<p align="center">
+<p align="left">
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="30"/></a>
 ㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="30"/></a>
 ㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="30"/></a>
@@ -51,7 +51,7 @@ However, overcoming these challenges has been instrumental in honing my skills a
   ㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" height="30"/></a>
   ㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="Adobe XD" height="30"/></a>
   ㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30"/></a>
-  ㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" height="30"/></a>
+<a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" height="30"/></a>
   ㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://img.icons8.com/?size=512&id=uSHYbs6PJfMT&format=png" alt="Shopify" height="30"/></a>
   ㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="Wix" height="30"/></a>
   ㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" height="30"/></a>
