@@ -29,7 +29,7 @@ However, overcoming these challenges has been instrumental in honing my skills a
 🔷 CMS SYSTEMS [WordPress / Shopify / Wix / Squarespace] <br />
 🔷 COLLABORATION TOOLS [Slack / Trello / Monday / Asana / Jira]
 <br /><br />
-<p align="center">
+<p align="left">
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="30"/></a>
@@ -40,7 +40,7 @@ However, overcoming these challenges has been instrumental in honing my skills a
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="Less" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="30"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/material-ui/material-ui-icon.svg" alt="Material-UI" height="30"/></a>
+  <a href="https://www.fiverr.com/webexhaust"><img src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" alt="Material-UI" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Css" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://styled-components.com/logo.png" alt="Styled Components" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="30"/></a>
@@ -56,7 +56,6 @@ However, overcoming these challenges has been instrumental in honing my skills a
   <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/squarespace/squarespace-icon.svg" alt="Squarespace" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" height="30"/></a>
-  <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="Monday" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" alt="Asana" height="30"/></a>
   <a href="https://www.fiverr.com/webexhaust"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="30"/></a>
 </p>
