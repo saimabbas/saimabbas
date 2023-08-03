@@ -54,8 +54,8 @@ However, overcoming these challenges has been instrumental in honing my skills a
 </p>
 <br />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saimabbas" alt="Languages stats" />  
+<p align="center" width="100%">
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimabbas" alt="Languages stats" />  
 </p>
 
 
