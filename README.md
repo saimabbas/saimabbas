@@ -52,6 +52,11 @@ However, overcoming these challenges has been instrumental in honing my skills a
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=saimabbas&theme=transparent&hide_border=true&type=svg" alt="Github stats" />  
 </p>
+<br />
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saimabbas" alt="Languages stats" />  
+</p>
 
 
 
