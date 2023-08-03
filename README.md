@@ -29,7 +29,7 @@ However, overcoming these challenges has been instrumental in honing my skills a
 🔷 CMS SYSTEMS [WordPress / Shopify / Wix / Squarespace] <br />
 🔷 COLLABORATION TOOLS [Slack / Trello / Monday / Asana / Jira]
 <br /><br />
-<p align="left">
+<p align="center">
   <a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="30"/></a>
 ㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="30"/></a>
 ㅤ<a href="https://www.fiverr.com/webexhaust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="30"/></a>
