@@ -6,7 +6,7 @@
 🔥𝗧𝗼𝗽-𝗥𝗮𝘁𝗲𝗱 𝗦𝗲𝗹𝗹𝗲𝗿 𝗼𝗻 𝗙𝗶𝘃𝗲𝗿𝗿🔥vetted as "𝗙𝗜𝗩𝗘𝗥𝗥'𝗦 𝗖𝗛𝗢𝗜𝗖𝗘" on my Gigs
 </h4>
 <br />
-Greetings! I am Saim Abbas 🙋‍♂️, a passionate and dedicated Frontend Developer specializing in React, based in the cultural heart of Pakistan - Multan. In addition to my freelance endeavors, I'm proud to serve as a **Senior Frontend Engineer at 5D Solutions, Dubai LLC**
+Greetings! I am Saim Abbas 🙋‍♂️, a passionate and dedicated Frontend Developer specializing in React, based in the cultural heart of Pakistan - Multan. In addition to my freelance endeavors, I'm proud to serve as a <b>Senior Frontend Engineer at 5D Solutions, Dubai LLC.</b>
 
 In my role at 5D Solutions, I have the privilege of leading a talented front-end team 👥, managing intricate front-end views, and integrating APIs to ensure smooth, seamless experiences 💻. The balance between my freelance commitments and corporate role enriches my perspective and amplifies my problem-solving skills 💡.
 
